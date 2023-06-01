@@ -11,6 +11,7 @@ Cursando *Sistemas para Internet* na Uncisal
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arenitoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arenitoo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
   # Tecnologias que utilizo
   
  [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
