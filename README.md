@@ -10,7 +10,7 @@ Cursando *Sistemas para Internet* na Uncisal
   <a href="https://github.com/arenitoo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arenitoo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arenitoo&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> 
   
   # Tecnologias que utilizo
   
