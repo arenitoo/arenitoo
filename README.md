@@ -16,11 +16,7 @@
 💻 Atualmente, meu foco está em DevOps, aprimorando minhas habilidades em Python, AWS, Terraform, Docker, GitLab, Linux, entre outras tecnologias<br>
 👨‍🏫 Atuei como Instrutor Técnico pela Escola da Nuvem, onde mentorei alunos na preparação para a certificação AWS Cloud Practitioner<br>
 📱 Desenvolvedor Mobile, com experiência no desenvolvimento de aplicativos em Flutter, além de envolvimento em pesquisas na área de blockchain para soluções digitais na saúde</p>
-
-###
-
 <br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliezir/Eliezir/8d51163d2527078b73535df413e63e9ba5eb0f81/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliezir/Eliezir/8d51163d2527078b73535df413e63e9ba5eb0f81/github-snake.svg" />
